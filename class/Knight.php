@@ -45,7 +45,7 @@ class Knight{
         }
 
         if($r1==$a && $r2==$b){
-        echo "<div class='".$s."'><img id='at' src='at.jpg'></div>";
+        echo "<div class='".$s."'><img id='at' src='assets/imgs/at.jpg'></div>";
         }
         else{
         echo "<div class='".$s."'></div>";
@@ -68,7 +68,7 @@ class Knight{
         $s="c";
         }
         if($r1==$a && $r2==$b){
-        echo "<div class='".$s."'><img id='at' src='at.jpg'></div>";
+        echo "<div class='".$s."'><img id='at' src='assets/imgs/at.jpg'></div>";
         }
         else{
         echo "<div class='".$s."'></div>";
